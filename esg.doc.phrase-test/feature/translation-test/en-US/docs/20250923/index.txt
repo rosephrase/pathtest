@@ -1,0 +1,3 @@
+Hello there!
+
+Here's a file for translation. Thanks!
